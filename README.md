@@ -49,3 +49,20 @@
   
   <li>Jayant Chaurasiya</li>
   </ul>
+
+
+<h3>Usage
+  
+  </h3>
+  
+  <ul>
+  <li>Patient Module can be used to Register a patient with this application for further use</li>
+  
+  <li>After Signing in a Patient wuld be able to book an appointment for the Consultant for his problem with Doctor</li>
+  
+  <li>Doctor Module will able to manage and deny the appiontment</li>
+  
+ 
+  </ul>
+  
+  
