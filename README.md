@@ -37,7 +37,7 @@
 <p>To get more help on the Angular CLI use ng help or go check out the Angular CLI Overview and Command Reference page.</p>
 
 
-<h3>Contributors<h/3>
+<h3>Contributors</h3>
 <ul>
   <li>Deekshit Srihari</li>
   
